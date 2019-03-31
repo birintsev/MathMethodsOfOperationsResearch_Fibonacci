@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>ua.sumdu.edu.in71</groupId>
   <artifactId>mmdo7</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>mmdo7</name>
   <url>http://www.example.com</url>
   <properties>
